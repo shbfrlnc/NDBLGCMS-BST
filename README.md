@@ -2,6 +2,8 @@
 
 NDBLGCMS-BST adalah aplikasi web untuk blog CMS berbasis Node.js.
 
+Untuk mendownloadnya, kunjungi bagian Releases.
+
 Untuk menjalankannya, ekstrak file zipnya, kemudian jalankan:
 
 ```
