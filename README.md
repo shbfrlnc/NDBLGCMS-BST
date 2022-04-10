@@ -1,5 +1,5 @@
 # NDBLGCMS-BST
- 
+
 NDBLGCMS-BST adalah aplikasi web untuk blog CMS berbasis Node.js.
 
 Untuk mendownloadnya, kunjungi bagian Releases.
@@ -34,6 +34,10 @@ password: admin
 ## Screencast
 
 - https://www.youtube.com/playlist?list=PLOg7o5N1MDWTaoCwvDIBXLZl2LeQYPPXp
+
+## Screenshot
+
+![ScreenShot](assets/NDBLGCMS1.png?raw=true) 
 
 ## Info Tambahan
 
