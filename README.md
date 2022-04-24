@@ -1,30 +1,36 @@
 # NDBLGCMS-BST
 
-NDBLGCMS-BST adalah aplikasi web untuk blog CMS berbasis Node.js.
+## Download
 
-Untuk mendownloadnya, kunjungi bagian Releases.
+Download the project on release page.
 
-Untuk menjalankannya, ekstrak file zipnya, kemudian jalankan:
+## Intro
+
+NDBLGCMS-BST is a Node.js Blogging CMS.
+
+Extract the zip source, cd to the folder, then (in command line):
 
 ```
 npm install
 ```
 
-Rename .env-example menjadi .env, kemudian isi dengan detail yang benar seperti di .env-example.
+Rename .env-example to .env.
 
-Kemudian, jalankan:
+Fill the data correctly, refer to .env-example.
+
+Then:
 
 ```
 npm start
 ```
 
-Atau
+Or
 
 ```
 npm run dev
 ```
 
-Admin bawaan memiliki detail login:
+Default admin login:
 
 ```
 username: admin@example.com
