@@ -4,6 +4,12 @@
 
 Download the project on release page.
 
+## More Info
+
+Support me, my youtube channel, etc:
+
+- https://shbfrlnc.github.io
+
 ## Intro
 
 NDBLGCMS-BST is a Node.js Blogging CMS.
@@ -43,10 +49,4 @@ password: admin
 
 ## Screenshot
 
-![ScreenShot](assets/NDBLGCMS1.png?raw=true) 
-
-## Info Tambahan
-
-Traktir Saya, Channel YouTube Saya, dan lain-lain:
-
-- https://sociabuzz.com/lsfkrshb
+![ScreenShot](assets/NDBLGCMS1.png?raw=true)
