@@ -2,35 +2,35 @@
 
 ## Download
 
-Download the project on release page.
+Untuk mendownloadnya, kunjungi halaman Releases.
 
-## More Info
+## Info Lebih Lanjut
 
-Support me, my youtube channel, etc:
+TRAKTIR / WEBSITE / YOUTUBE / TWITTER:
 
 - https://shbfrlnc.github.io
 
 ## Intro
 
-NDBLGCMS-BST is a Node.js Blogging CMS.
+NDBLGCMS-BST adalah Node.js Blogging CMS.
 
-Extract the zip source, cd to the folder, then (in command line):
+Ekstrak file zip nya, masuk ke dalam foldernya via command line, kemudian jalankan:
 
 ```
 npm install
 ```
 
-Rename .env-example to .env.
+Rename .env-example menjadi .env.
 
-Fill the data correctly, refer to .env-example.
+Isi datanya dengan benar, sesuai contoh pada .env-example.
 
-Then:
+Kemudian:
 
 ```
 npm start
 ```
 
-Or
+Atau
 
 ```
 npm run dev
